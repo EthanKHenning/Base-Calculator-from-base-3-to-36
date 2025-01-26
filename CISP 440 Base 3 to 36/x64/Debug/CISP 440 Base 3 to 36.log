@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\3thot\OneDrive\Desktop\Code\CISP 440 Base 3 to 36\Main.cpp(297,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\3thot\OneDrive\Desktop\Code\CISP 440 Base 3 to 36\Main.cpp(354,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CISP 440 Base 3 to 36.vcxproj -> C:\Users\3thot\OneDrive\Desktop\Code\CISP 440 Base 3 to 36\x64\Debug\CISP 440 Base 3 to 36.exe
